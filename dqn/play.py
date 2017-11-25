@@ -1,8 +1,8 @@
 import gym
 import numpy as np
 
-from dqn.agent import DQNAgent
-from dqn.agent import EPISODES, EPISODE_LENGTH
+from agent import DQNAgent
+from agent import EPISODES, EPISODE_LENGTH
 
 environment_name = 'CartPole-v1'
 environment = gym.make(environment_name)

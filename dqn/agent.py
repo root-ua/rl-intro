@@ -8,7 +8,7 @@ from keras.models import Sequential
 
 BATCH_SIZE = 128
 EPISODES = 1500
-EPISODE_LENGTH = 1000
+EPISODE_LENGTH = 500
 
 
 class DQNAgent:
