@@ -1,5 +1,5 @@
-numpy>=1.11.0
-tensorflow>=1.2.0
-Keras>=2.0.0
-gym>=0.9.4
-h5py>=2.7.0
+numpy>=1.15.3
+tensorflow>=1.11.0
+Keras>=2.2.4
+gym>=0.10.8
+h5py>=2.8.0
